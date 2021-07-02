@@ -204,3 +204,26 @@ body {
         margin-bottom: 30px;
     }
 }
+
+
+/* animation  */
+
+.ani-delay-1 {
+    animation-delay: 0.3s;
+}
+
+.ani-delay-2 {
+    animation-delay: 0.9s;
+}
+
+.ani-delay-3 {
+    animation-delay: 1.3s;
+}
+
+.ani-delay-4 {
+    animation-delay: 1.9s;
+}
+
+.ani-delay-5 {
+    animation-delay: 0.4s;
+}
